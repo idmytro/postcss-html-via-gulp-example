@@ -1,0 +1,20 @@
+{
+  "name": "postcss-html-via-gulp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/postcss-html-via-gulp-example.git"
+  },
+  "keywords": [],
+  "author": "Dmytro Cisar <i@dmyt.ro> (http://dmyt.ro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idmytro/postcss-html-via-gulp-example/issues"
+  },
+  "homepage": "https://github.com/idmytro/postcss-html-via-gulp-example#readme"
+}
