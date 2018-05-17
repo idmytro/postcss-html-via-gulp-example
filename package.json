@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/idmytro/postcss-html-via-gulp-example/issues"
   },
-  "homepage": "https://github.com/idmytro/postcss-html-via-gulp-example#readme"
+  "homepage": "https://github.com/idmytro/postcss-html-via-gulp-example#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-change": "1.0.0",
+    "postcss": "6.0.22",
+    "postcss-html": "0.23.6",
+    "postcss-safe-parser": "3.0.1"
+  }
 }
